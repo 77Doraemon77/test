@@ -1,2 +1,2 @@
-# test
-This is Test Repo
+# Project Help will Available soon
+== Developmebt Mode ==
